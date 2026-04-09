@@ -1,0 +1,6 @@
+name: astrbot_plugin_diary
+author: asterbot
+desc: "人设日记插件 - 根据机器人人设、心情和当天经历，以第一人称视角自动撰写真实日记。记录群聊互动、重要事件、情绪变化，像真人写日记一样。"
+version: "1.0.0"
+repo: ""
+display_name: "人设日记插件"
